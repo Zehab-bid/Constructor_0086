@@ -32,6 +32,7 @@ void mahasiswa :: cetak(){
     cout << "Nama :" <<nama <<endl;
 }
 
+
 int main(){
     mahasiswa mhs1(102030);
     mahasiswa mhs2("Andi");
