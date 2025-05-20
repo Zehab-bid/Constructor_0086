@@ -4,7 +4,7 @@ using namespace std;
 class buku{
     string judul;
 
-    
+
     public :
     buku setJudul(string judul){
         this -> judul = judul;
@@ -16,6 +16,7 @@ class buku{
         return this ->judul;
     }
 };
+
 
 int main(){
     buku bukunya;
